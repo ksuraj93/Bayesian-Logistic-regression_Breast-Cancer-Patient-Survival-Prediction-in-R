@@ -154,7 +154,10 @@ From the refined model, both accuracy and kappa statistics have been improved. T
 ❖ Denver Dash and Gregory F. Cooper. Model Averaging with Discrete Bayesian Network Classifiers. Decision Systems Laboratory Intelligent Systems Program University of Pittsburgh
 ❖ Tierney, L. (1994). Markov chains for exploring posterior distributions. The Annals of Statistics 22, 1701-1728
 ❖ Silvapulle, M. J. (1981). On the existence of maximum likelihood estimators for the binomial response models. Journal of the Royal Statistical Society, Series B 43, 310-313.
-
+## CONTACT :
+#### SURAJ KANNAN - DATA SCIENTIST
+#### EMAIL : mahi.suraj93@gmail.com
+#### WEBSITE & E-PORTFOLIO : [click me](http://www.surajkannan.com/)
 
 
 
